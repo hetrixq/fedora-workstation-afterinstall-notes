@@ -13,7 +13,7 @@
 sudo hostnamectl set-hostname "HOSTNAME"
 ```
 
-## TPM2.0 Decryption
+## TPM2.0 Decryption (suddenly doesn't work anymore)
 To decrypt your system without manually entering a password, but using the tpm 2 security module, you can follow this [instruction](https://gist.github.com/jdoss/777e8b52c8d88eb87467935769c98a95)
 
 
